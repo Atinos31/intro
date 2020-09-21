@@ -1,6 +1,6 @@
-# **INTRO**
+# **WORKING WITH CODE**
 ## *class11-12_3*
-### *lessson 1*, 
+### INTRO
 Hello there,
 My name is *Sandra Atino* and i am 31 years old , originally from **Uganda** but i have lived in belgium close to 6years now.
 I am a graduate of radio and tv electronics although i have mainly worked in a **graphic design** field creating wedding cards and bussiness cards.
@@ -10,3 +10,18 @@ I  am ready to learn from my mistakes.
 as Oscar Wilde said: 
 >Experience is the name everyone 
  >gives their mistakes.
+ 
+ **STUDENTS**
+ In group 3 we have the following students:
+ 
+ * Peyman from Iran -lives in Mechelen.
+ 
+ * Sharaf from Pakistan -lives in Ghent.
+ 
+ * Moon from Phillipines - lives in Leuven.
+ 
+ * Luibov from Russia -lives in Ghent.
+ 
+ * Atino from Uganda - lives in Bertrix.
+ 
+ 
