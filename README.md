@@ -1,5 +1,5 @@
 # **INTRO**
-## *class11-12_3
+## *class11-12_3*
 ### *lessson 1*, 
 Hello there
 my name is *Sandra Atino* and i am 31 years old , originally from **Uganda** but i have lived in belgium close to 6years now.
